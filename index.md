@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# 💕 爱未来·青少年成长中心
 
-You can use the [editor on GitHub](https://github.com/Steven147/qingcheng/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 爱未来·青少年中心成立的缘起
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+“谁来充当中国孩子的人生导师，给予孩子温暖和力量，给予孩子直面困难的勇气，谁来正确引导中国孩子的人生观价值观，谁来帮助中国孩子调整心态建立一颗强大的心，谁来帮助中国孩子建立正确的人际关系尤其是两性关系，谁来真正的引导中国的孩子成为一个优秀的人？”这些话在郑委老师心中呐喊了十余年……2021年6月，爱与幸福专注帮助孩子的爱未来团队正式成立，紧随其后，爱未来团队中的青少年中心也应运而生。
 
-### Markdown
+## 爱未来·青少年中心是什么？
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+是一个平台，一个专注帮助孩子们热爱生活、热爱自然、热爱学习、志向高远的平台。
+是一个大家庭，由孩子们和“人生导师”共同打造的一个温暖而有力量的大家庭。
 
-```markdown
-Syntax highlighted code block
+## 爱未来·青少年中心做什么？
+👬以“线上线下课程、户外活动”等多种方式帮助孩子们交高人，读好书，长见识，探寻自己的生命价值和意义。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+爱未来·青少年中心筹备组
+2021年7月1日
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Steven147/qingcheng/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
